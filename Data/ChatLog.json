@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "Who is narendra modi?"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Damodardas Modi is an Indian politician who has served as the Prime Minister of India since 2014."
+    },
+    {
+        "role": "user",
+        "content": "What is the net the pic of mountains with waterfall?"
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're referring to the scenic image often used as a wallpaper or desktop background. That's the Pic de la Meije mountain in the \u00c9crins National Park, France, with the Vercors Massif waterfall in the foreground."
+    },
+    {
+        "role": "user",
+        "content": "Where is the image?"
+    },
+    {
+        "role": "assistant",
+        "content": "The image is located in the \u00c9crins National Park, France."
+    }
+]
